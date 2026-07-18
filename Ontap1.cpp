@@ -1,3 +1,18 @@
+// Yêu cầu: Tổ chức quản lý dữ liệu bằng danh sách liên kết đơn. Cho cấu trúc của một node như
+// sau, hãy viết chương trình sử dụng ngôn ngữ C thực hiện các yêu cầu:
+// struct Node
+// {
+//  char data;
+//  struct Node *next;
+// };
+// Câu 1: Xây dựng hàm để tạo danh sách gồm n Node bằng cách chèn vào sau phần tử đầu.
+// Câu 2: Liệt kê các ký tự nguyên âm có trong danh sách. (Ký tự nguyên âm bao gồm: a, e, i, o,
+// u thường và hoa)
+// Câu 3: Xóa ký tự nguyên âm đầu tiên trong danh sách.
+// Câu 4: Sắp xếp danh sách tăng dần.
+// Câu 5: Tách danh sách thành 2 danh sách sao cho:
+// - Danh sách thứ nhất chứa các ký tự nguyên âm.
+// - Danh sách thứ hai chứa các phần tử còn lại
 #include <stdio.h>
 #include <stdlib.h>
 

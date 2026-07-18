@@ -1,3 +1,15 @@
+// 1. Mảng ngẫu nhiên ban đầu
+// 2. Sắp xếp mảng tăng
+// 3. Loại bỏ phần tử trùng
+// 4. Tạo Linked List từ mảng câu 3
+// 5. Chèn 50 vào Linked List
+// 6. Xóa <30
+// 7. Chuyển Linked List sang Array
+// 8. Sắp xếp lại mảng theo quy tắc "Median Order" Ví dụ: 30 35 45 50 55 67 75 89 -> 50 35 30 45 67 55 75 89
+// 9. Tạo cây BST từ mảng câu 8
+// 10. Duyệt cây NLR; LNR; LRN
+// 11. Đếm node lá, node có đủ 2 con
+// 12. Tính chiều cao cây
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
